@@ -1,7 +1,9 @@
 # Alexandre Payet
 
 👨‍💻 **Développeur Full Stack** | Étudiant à 42 Paris
+
 📍 Aulnay-sous-Bois, France
+
 🌐 [Site web](https://alexandrepayet.re) | 📧 [Contact](mailto:apayet@student.42.fr)
 
 ---
